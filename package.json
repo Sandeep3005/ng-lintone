@@ -1,13 +1,17 @@
 {
-  "name": "node-lint-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sandeep3005-lintone-cli",
+  "version": "1.0.1",
+  "description": "Node cli tool to get lint error associated to only one file for angular 4+.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "angular",
+    "lint",
+    "line-one-file"
+  ],
+  "author": "Sandeep Chikhale",
   "license": "ISC",
   "dependencies": {
     "shelljs": "^0.8.2",
