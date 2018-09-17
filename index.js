@@ -37,7 +37,7 @@ function readFileLineByLine() {
   // Delete the file
   fs.unlink(filePath, (err) => {
     if (err) return console.log(err);
-    console.log('file deleted successfully');
+    console.log('Done.');
   });
 }
 
