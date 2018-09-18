@@ -1,6 +1,6 @@
 {
   "name": "lintone-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Node cli tool to get lint error associated to only one file for angular 4+.",
   "main": "index.js",
   "scripts": {
